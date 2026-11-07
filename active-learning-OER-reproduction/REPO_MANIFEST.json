@@ -1,0 +1,44 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 974,
+    "sha256": "3efda43712be335c3fc6cc7b43eabd48bc6b0842763ed7efa1ea37babff8c310",
+    "rows": null
+  },
+  {
+    "file": "initial_train/OER_train_initial.csv",
+    "bytes": 6587,
+    "sha256": "4ee2531bb8aa70fcb39e296a06afcc1d6d26085411aa5fe1675b1d4654b51570",
+    "rows": 30
+  },
+  {
+    "file": "final_train/OER_train_final.csv",
+    "bytes": 7921,
+    "sha256": "6c93451e0261eae056f4cfb20695b0705a7a5171f0064dc264012f880e443837",
+    "rows": 40
+  },
+  {
+    "file": "initial_screen/OER_screen_initial.csv",
+    "bytes": 627787,
+    "sha256": "6bd512e1c7e260ec60bedc4e5d8bab3453ee37c974b256510aac5a14979d1251",
+    "rows": 10131
+  },
+  {
+    "file": "final_screen/OER_screen_final.csv",
+    "bytes": 627803,
+    "sha256": "98e8ca0d0888ea2cfb983d0da2d266ed0befbb6464ac00014bd5bd0b1740f7bf",
+    "rows": 10141
+  },
+  {
+    "file": "initial_screen/OER_screen_initial_tSNE.csv",
+    "bytes": 750328,
+    "sha256": "d9b56e32f6b099894124c1bc2314d1bab57b4802c26d41db1ee3edd0b261d1f0",
+    "rows": 10131
+  },
+  {
+    "file": "final_screen/OER_screen_final_tSNE.csv",
+    "bytes": 750529,
+    "sha256": "9340d60db6d1342de38aea4903dd890ffbd9718863ab4c7766269a6f0a5fc57d",
+    "rows": 10141
+  }
+]

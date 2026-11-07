@@ -1,0 +1,43 @@
+{
+  "pdb": "E:\\\u7ec4\u5185\u5de5\u4f5c\u6587\u4ef6\\\u673a\u5668\u5b66\u4e60\u8bba\u6587\u590d\u73b0\\\u4e3b\u52a8\u5b66\u4e60\u6307\u5bfc\u53d1\u73b0\u51a0\u519b\u56db\u91d1\u5c5e\u9499\u949b\u77ff\u6790\u6c27\u7535\u50ac\u5316\u5242\\OER2022\\initial_train\\perovskite_oxide.pdb",
+  "atoms": 336,
+  "directed_edges": 1296,
+  "unique_undirected_edges": 648,
+  "label_counts": {
+    "AA0": 8,
+    "AA1": 8,
+    "AA2": 10,
+    "AA3": 10,
+    "BB4": 12,
+    "BB5": 18,
+    "BB6": 12,
+    "BB7": 18,
+    "O8": 18,
+    "O9": 18,
+    "O10": 22,
+    "O11": 22,
+    "O12": 24,
+    "O13": 16,
+    "O14": 24,
+    "O15": 16,
+    "O16": 24,
+    "O17": 16,
+    "O18": 24,
+    "O19": 16
+  },
+  "element_counts": {
+    "AA": 36,
+    "BB": 60,
+    "O": 240
+  },
+  "coordinate_min": [
+    -2.282,
+    -1.597,
+    -1.924
+  ],
+  "coordinate_max": [
+    13.097,
+    12.612,
+    17.312
+  ]
+}

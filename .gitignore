@@ -1,0 +1,9 @@
+# 通用忽略规则（子目录可再覆盖）
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

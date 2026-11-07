@@ -1,0 +1,8 @@
+# 与论文作者环境对齐（SI 写明 Keras 2.11.0 + TensorFlow backend，K-means 用 sklearn 1.2.1）
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+scikit-learn==1.2.1
+matplotlib==3.7.2
+tensorflow==2.11.0
+keras==2.11.0

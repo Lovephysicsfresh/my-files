@@ -1,0 +1,22 @@
+{
+  "n_nodes": 336,
+  "n_directed_edges": 1296,
+  "n_unique_undirected_edges": 648,
+  "pair_indices_shape": [
+    2,
+    1296
+  ],
+  "site_counts": {
+    "A": 36,
+    "B": 60,
+    "O": 240
+  },
+  "node_feature_shape_placeholder": [
+    336,
+    4
+  ],
+  "edge_feature_shape_placeholder": [
+    1296,
+    3
+  ]
+}
